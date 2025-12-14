@@ -1,2 +1,2 @@
-# mySite
+# mySite.ru
 мой первый сайт
